@@ -1,0 +1,15 @@
+1. Siti Ulumis Sifaiya (141240000324)
+	-bantuan
+	-kategori
+	-laporan
+	-user_laporan
+2. Maula Hashina Dina (141240000313)
+	-dashboard
+	-home
+	-akun
+	-saldo
+3. Vina Rahmawati (141240000346)
+	-login
+	-logout
+	-register
+	-template
